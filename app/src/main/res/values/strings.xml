@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="category_name_tour">City Tour</string>
+    <string name="category_name_food">Food</string>
+    <string name="category_name_hotel">Hotel</string>
+    <string name="category_name_mustsee">Must-See</string>
+
+
+
+    <!--Haveli Restaurant -->
+
+    <string name="Haveli_name">Haveli Restaurant</string>
+    <string name="description">Vegetarian Friendly </string>
+    <string name="website">haveli.com.pk </string>
+    <string name="h_overview">A unique restaurant located in the historic Haveli Khalil Khan, surrounded by spectacular heritage sites like the Badshahi mosque, Lahore fort, Temple of Guru Arjun, and Minar-e-Pakistan. Amazing views from the rooftop terraces add to the traditional architecture of the Haveli. The culinary experience offers tasty local and regional variety, based on our commitment to provide the freshest ingredients and the most hygienically prepared recipes. We do not compromise on the quality of our menu, and each item is a carefully prepared labor of love. Our philosophy is to provide the utmost guest satisfaction with the highest standards of food quality and service.</string>
+
+
+    <string name="Lahore">Lahore</string>
+    <string name="overview">Overview:</string>
+
+    <!--Veera 5 Thai  -->
+
+    <string name="veera_name">Veera 5 Thai </string>
+    <string name="veera_description">Chinese Food </string>
+    <string name="veera_website">www.facebook.com/veera5</string>
+    <string name="veera_overview">Dine with Veera5 for an authentic Chinese and Thai culinary experience. We bring irresistible Thai and Chinese flavors right to your table.</string>
+
+
+    <!--monal lahore-->
+
+    <string name="monal_name">Monal Lahore</string>
+    <string name="monal_description">Best BBQ</string>
+    <string name="monal_website">lahore.themonal.com</string>
+    <string name="monal_overview">Sitting atop ten floors, set on the rooftop of Park and Ride Plaza Liberty, Monal Lahore has made its mark in Lahore’s food market. With one indoor hall, six out door terraces and a children’s play place, Monal Lahore is a favorite family entertainment spot for the young and old alike. Build on the country theme, Monal Lahore is a perfect blend of country and contemporary architecture. A live kitchen sets a perfect backdrop to the indoor hall and the terrace it opens in to. And of course, nothing beats the live music seven days a week.</string>
+
+      <!--Bundu Khan  -->
+
+    <string name="bundu_name">Bundu Khan</string>
+    <string name="bundu_description">Best For Breakfast</string>
+    <string name="bundu_website">www.bundukhan.pk</string>
+    <string name="bundu_overview">Bundu Khan is the leading food-service provider in Pakistan. Bundu Khan serve a variety of wholesome options to more than 10,000 customers every day. We are proud of our quality ingredients and famous items like Chicken Tikka, Chicken Shashlik, Balochi Sajji, Variety of Chicken kababs, Variety of Handis and a range of delicious sweets and beverages.
+       While we are in food service business, we don’t stop there. Our involvement in youth sports, local charities and events that inspire the nation are held at a high regard. Along the way, we’ve managed to not just live history, but create it: from just One restaurant to 9 restaurants. It’s been quite a journey, and we promise this is just the beginning.</string>
+
+    <!--Arcadian Cafe  -->
+
+    <string name="Arcade_name">Arcadian Cafe</string>
+    <string name="Arcade_description">Western Food </string>
+    <string name="Arcade_website">www.arcadiancafe.com</string>
+    <string name="Arcade_overview">At Arcadian Café® we pride ourselves on delivering inspirational cuisine with a promise that every morsel that hits your mouth will be prepared with utmost care regarding taste and hygiene.</string>
+
+    <!--Qabail Tribes  -->
+
+    <string name="qabail_name">Qabail Tribes</string>
+    <string name="qabail_description">Afghani Food</string>
+    <string name="qabail_website">FoodPanda</string>
+    <string name="qabail_overview">"Qabail Tribes" is a one of its kind Pashtoon restaurant that brings you the best Qabaili food and ancient tales of all Pathan tribesmen.</string>
+
+
+    <!--Shopping Malls-->
+
+    <!--emporium Mall-->
+
+    <string name="emporium_mall">Emporium Mall</string>
+    <string name="emporium_address">Abdul Haque Road</string>
+    <string name="emporium_website">nishatemporium.com</string>
+    <string name="emporium_overview">Best and bigger mall of Pakistan, having 9 screen cinema, luxury hotel and dozens of local and western restaurants.</string>
+
+    <!--Packages Mall-->
+
+    <string name="package_name">Packages Mall</string>
+    <string name="package_address">Walton Road</string>
+    <string name="package_website">packagesmall.com</string>
+    <string name="package_overview">Located in the second largest city of Pakistan – Lahore, Packages Mall is a state-of-the-art shopping mall that has been developed according to international standards by a team of highly qualified foreign and local professionals. As the latest venture of Packages Limited - an institution that has pioneered innovation across every sector of the nation since 1956, Packages Mall has rapidly risen since its inception in 2017 to become the new home of entertainment where Lahore comes to shop; offering the community access to over 200 local and international brands, a Multiplex Cinema, a Food Court housing the best cuisines, and one of the largest hypermarket chains in the world – Carrefour, all under one roof.</string>
+
+    <!--The Mall of Lahore-->
+
+    <string name="mall_name">The Mall of Lahore</string>
+    <string name="mall_address">Tufail Road</string>
+    <string name="mall_website">www.malloflahore.pk</string>
+    <string name="mall_overview">Mall of Lahore is ideally located in the heart of Lahore at the Park Lane Tower which is a distinctive landmark which comprises of more than 650,000 square feet of retail, corporate offices and serviced residential space. The building stands tall with its 13 floors rising an imposing 130 feet, located on the intersection of Aziz Bhatti and Tufail Road. PLT is the first smart building in Pakistan. This building is fitted with state of the art automated features. This is the only full scale commercial complex in the cantonment area and the first shopping complex after the AIlama Iqbal International Airport.</string>
+
+    <!--Fortress Stadium-->
+
+    <string name="fortress_name">Fortress Stadium</string>
+    <string name="fortress_address">Aziz Bhatti Rd</string>
+    <string name="fortress_website"></string>
+    <string name="fortress_overview">“Plenty of parking space, shopping brands (both local and international for both middle and upper class), availability of a super market aka.”
+“Secured, Quality, Standards, Brands,shopping, Gaming, Cinema, Play place, Quality Food courts and much much more at one place in Lahore.</string>
+
+    <!--Liberty Market-->
+
+    <string name="liberty_name">Liberty Market</string>
+    <string name="liberty_address">Noor Jehan Road Gulberg</string>
+    <string name="liberty_website">Coming Soon</string>
+    <string name="liberty_overview">Great shops, precious jewelry, material shops, makeup, shoes, shoes and shoes.</string>
+
+    <!--Amanah Mall-->
+
+    <string name="amanah_name">Amanah Mall</string>
+    <string name="amanah_address">Link Road</string>
+    <string name="amanah_website">Coming Soon</string>
+    <string name="amanah_overview">Amanah Mall is one stop shopping mall for the latest in clothing, accessories, grocery, dining, fitness, entertainment and fun events. Amanah Mall is a modern and largest shopping mall on Link road Model Town Lahore. Amanah mall has international retail stores along with renowned domestic brand outlets and trampoline Park. It is vibrant mix of entertainment, shopping, food and recreational activities.</string>
+
+<!--HistoricalPlaces-->
+
+    <!--fort-->
+    <string name="fort_name">Lahore Fort</string>
+    <string name="fort_address">Fort Rd, Walled City of Lahore</string>
+    <string name="fort_owner">Mughal Empire</string>
+    <string name="fort_history">The Lahore Fort is a citadel in the city of Lahore, Punjab, Pakistan. The fortress is located at the northern end of walled city Lahore, and spreads over an area greater than 20 hectares. It contains 21 notable monuments, some of which date to the era of Emperor Akbar.</string>
+
+
+    <!--Delhi Gate-->
+    <string name="delhi_name">Delhi Gate</string>
+    <string name="delhi_address">Akbari Mandi Walled City of Lahore</string>
+    <string name="delhi_owner">Mughal period</string>
+    <string name="delhi_history">The gate was once part of Lahore city walls, which were torn down by the British after the Sepoy Mutiny of 1857. The gate itself was also destroyed by the British, but was reconstructed in the 19th century under the British Raj. Following the Partition of British India, the gate housed a girls school. The gate is mentioned by Rudyard Kipling in his 1891 short story "The City of Dreadful Night." Lahore`s famous Zamzama Gun was originally placed at Delhi Gate, but was relocated by the British to a site in front of the Lahore Museum.</string>
+
+    <!--Chauburji -->
+
+    <string name="Chauburji_name">Chauburji</string>
+    <string name="Chauburji_address">Block B New Chauburji Park</string>
+    <string name="Chauburji_owner">Shah Jahan</string>
+    <string name="Chauburji_History">The establishment of this garden is often attributed to Mughal Princess Zeb-un-Nisa, who is believed to be referenced in an inscription naming her "Sahib-e-Zebinda Begam-e-Dauran." The princess was eight years old at the time of construction, so it has been suggested that the inscription may actually be in reference to her aunt, Jahanara Begum, who was a daughter of the Mughal Emperor Shah Jahan.</string>
+
+    <!--Badshahi Mosque-->
+
+    <string name="badshahi_name">Badshahi Mosque</string>
+    <string name="badshahi_address">Walled City of Lahore</string>
+    <string name="badshahi_owner">Mughal Emperor Aurangzeb</string>
+    <string name="badshahi_history">The mosque was commissioned by the Mughal Emperor Aurangzeb in 1671, with construction overseen by the Emperor`s foster brother, and Governor of Lahore, Muzaffar Hussein - also known by the name Fidai Khan Koka. Aurangzeb had the mosque built in order to commemorate his military campaigns against the Maratha king Chhatrapati Shivaji. After only two years of construction, the mosque was opened in 1673.</string>
+
+    <!-- Minar-e-Pakistan-->
+
+    <string name="minar_name">Minar-e-Pakistan</string>
+    <string name="minar_address">Circular Rd, Lahore</string>
+    <string name="minar_owner">Pakistan Government</string>
+    <string name="minar_history">The tower was built between 1960 and 1968 on the site where the All-India Muslim League passed the Lahore Resolution on 23 March 1940 - the first official call for a separate and independent homeland for the Muslims of British India, as espoused by the two-nation theory. The resolution eventually helped lead to the emergence of an independent Pakistani state in 1947.</string>
+
+    <!-- Aitchison College-->
+
+    <string name="aitchison_name">Aitchison College</string>
+    <string name="aitchison_address">Mall Rd, Garhi Shahu</string>
+    <string name="aitchison_owner">Sir Charles Aitchison</string>
+    <string name="aitchison_history">Aitchison College, by name, was established by the British as an elite institution with the objective of educating "the relatives of the Ruling Chiefs of the Punjab, youths of good family, and the minors under the guardianship of the Court of Wards." Because of its seamless connection with the Wards College of Umballa, we are able to date our foundation back to 1868 when the original school provided Mr. Walter Robinson as Aitchison College`s first principal and we received boys from that school. Reaffirming this Sir Charles Aitchison declared at the 1886 opening: "..the institution was the outcome of proposals which had been under consideration since 1864, and which had been partially realised since the establishment of the Wards School at Umballa."</string>
+
+
+    <!--Top Attraction-->
+
+
+    <!--wagah_border-->
+
+    <string name="wagah_name">Wagah Border</string>
+    <string name="wagah_address"> Wahgah Zone of Lahore</string>
+    <string name="wagah_buildby">Pakistan</string>
+    <string name="wagah_history">The town is famous for the Wagah border ceremony and also serves as a goods transit terminal and a railway station between Pakistan and India.[2] Wagah is situated 600 metres (2,000 ft) west of the border and lies on the historic Grand Trunk Road between Lahore and Amritsar in India. The border is located 24 kilometres (15 mi) from Lahore and 32 kilometres (20 mi) from Amritsar. It is also 3 kilometres (1.9 mi) from the bordering village of Attari.</string>
+
+    <!--Army Museum-->
+
+    <string name="museum_name">Army Museum</string>
+    <string name="museum_address">Amjad Chauhdry Road</string>
+    <string name="museum_buildby">Inaugurated by COAS</string>
+    <string name="museum_history">The museum is a unique and historic plan of its style in this region inaugurated and opened for public on 13 Aug 2017. Its presentations are carefully chosen and thoughtfully organized with a sharp and keen eye for recording exact events of over 9000 years of history and heritage that has no contemporary parallels in the Country. The Museum is an excellent source of information and awareness about Pakistan’s past. It depicts history and heritage of Pakistan Movement titled [1] Rebirth of a Nation, [2] Quaid and Armed Forces, [3] Pakistan’s War history including fight against terrorism, [4] Shuhada (martyrs) شہداء Corner, [5] Nishan-e-Haider (Pakistan`s highest military gallantry award) Gallery, [6] Life at highest battlefield Siachen, [7] Kashmir Corner, [8] Pakistan’s contributions in United Nations, [9] Nation building efforts and [10] tribute to sacrifices of Minorities titled white of the Flag. There are about 180 life-size dioramas, incredibly realistic sculptures, made by some of Pakistan’s best sculptors and artists. Pakistan has been the most significant and consistent contributor for the UN Peacekeeping around the world. In short, the place is highly recommended worth visiting.</string>
+
+
+    <!--Shalimar Bagh-->
+    <string name="shalimar_name">Shalimar Bagh</string>
+    <string name="shalimar_address">Shalamar Chowk G. T. Road</string>
+    <string name="shalimar_buildby">Emperor Jahangir</string>
+    <string name="shalimar_history">Construction of the gardens began on 12 June 1641, and took 18 months to complete.[2] During the Sikh era, much of the garden`s marble was pillaged and used to decorated the Golden Temple in Amritsar.[9] The Shalamar Gardens were plundered of much of its marble which was transported to decorate the Ram Bagh Palace in nearby Amritsar, while the gardens` costly agate gate was stripped and sold by Lehna Singh Majithia.In 1806 Maharaja ordered the Shalamar Gardens to be repaired.[11]In 1962, the Shalamar Gardens were nationalised by General Ayub khan[12] because leading Arain Mian family members had opposed his imposition of martial law in Pakistan.[citation needed]The annual Mela Chiraghan festival used to take place in the gardens until General Ayub Khan forbade it in 1958.</string>
+
+    <!--Lahore Zoo-->
+
+    <string name="zoo_name">Lahore Zoo</string>
+    <string name="zoo_address">Johar Town, Lahore Pakistan</string>
+    <string name="zoo_buidby">Lal Mahundra Ram</string>
+    <string name="zoo_history">Lahore Zoo had its beginnings in a small aviary donated by Lal Mahundra Ram in 1872 to the Lahore Municipal Corporation. Over time the animal collection increased and the zoo expanded. It later began to take interest in conservation, education and research in addition to providing recreational facilities to the public. By 2010, the zoo was home to about 1280 trees of 71 species and 1380 animals of 136 species including 996 birds of 82 species, 49 reptiles of 8 and 336 mammals of 45 species. The zoo was managed by the Lahore Municipal Corporation from 1872 to 1923, when management was turned over to the Deputy Commissioner of Lahore. Management was transferred to the Livestock and Dairy Development department in 1962, and then to the Wildlife and Parks department in 1982. Between its founding in 1872 and its turnover to the Wildlife and Parks department in 1982 there was very little development at the zoo. Since 1982, it has upgraded its exhibits, layout, and landscaping, and has become a self-financing organization.A master planning, improvement and development project of 18 months duration was approved in on July 25, 2005. It was carried out by Zoo Maintenance Committee and sponsored by Planning and Development Department of Government of Punjab. The project cost around 202.830 million Pakistani rupees and aimed for the improvement and addition of facilities</string>
+
+    <!--Eiffel Tower Replica -->
+
+    <string name="tower_name">Eiffel Tower Replica</string>
+    <string name="tower_address">Bahria Town</string>
+    <string name="tower_buildby">Malik Riaz</string>
+    <string name="tower_history">Eiffel Tower is good place to visit and From the top floor of the tower you really enjoy beauty of the Lahore Pakistan.</string>
+
+
+    <!--Ali Hujwiri tomb-->
+    
+    <string name="tomb_name">Data Darbar</string>
+    <string name="tomb_address">Bhati Gate</string>
+    <string name="tomb_buildby"></string>
+    <string name="tomb_history">The shrine was originally established as a simple grave next to the mosque which Hujwiri had built on the outskirts of Lahore in the 11th century. By the 13th century, the belief that the spiritual powers of great Sufi saints were attached to their burial sites was widespread in the Muslim world, and so a larger shrine was built to commemorate the burial site of Hujwiri during the Mughal period. The shrine complex was expanded in the 19th century, and Hujwiri`s mosque rebuilt.</string>
+
+    <string name="location">location</string>
+</resources>

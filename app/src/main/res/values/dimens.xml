@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_height">100dp</dimen>
+
+
+    <dimen name="item_detail_image_height">230dp</dimen>
+    <dimen name="item_detail_box_height">100dp</dimen>
+    <dimen name="item_detail_overview">18sp</dimen>
+    <dimen name="item_detail_overview1">16sp</dimen>
+    <dimen name="item_detail_text_title">30sp</dimen>
+    <dimen name="item_detail_text_location">16sp</dimen>
+    <dimen name="item_detail_body_text">18sp</dimen>
+    <dimen name="padding_tablayout">9sp</dimen>
+    <dimen name="listitem_textsize">18sp</dimen>
+    <dimen name="linear_padding">8dp</dimen>
+    <dimen name="linear_paddingtop">10dp</dimen>
+    <dimen name="listview_divider">10dp</dimen>
+    <dimen name="textview_padding">16dp</dimen>
+    <dimen name="textview_margin">16dp</dimen>
+    <dimen name="textview_paddingleft">20dp</dimen>
+    <dimen name="textview_paddingtop">24dp</dimen>
+
+
+</resources>

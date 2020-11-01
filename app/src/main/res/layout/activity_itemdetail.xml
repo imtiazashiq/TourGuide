@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ItemDetail">
+
+        <ImageView
+
+            android:id="@+id/item_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/item_detail_image_height"
+            android:scaleType="centerCrop"/>
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/item_detail_box_height">
+
+            <TextView
+            android:id="@+id/item_title"
+             android:text="Lahore"
+                android:padding="@dimen/textview_padding"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/item_detail_box_height"
+            android:background="@color/purple"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/item_detail_text_title"
+            android:gravity="top|center"/>
+
+            <TextView
+            android:id="@+id/item_location"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Imtiaz"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/item_detail_text_location"
+            android:layout_margin="@dimen/textview_margin"/>
+
+        </RelativeLayout>
+
+
+                <TextView
+                android:id="@+id/location1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/item_detail_overview"
+                android:paddingLeft="@dimen/textview_paddingleft"
+                android:gravity="left"
+                android:paddingTop="@dimen/textview_paddingtop"
+                android:text="@string/overview"
+                android:textColor="@color/darkpurple"
+                android:textStyle="bold"/>
+
+
+                <TextView
+                android:id="@+id/overview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/item_detail_overview1"
+                android:paddingRight="@dimen/textview_padding"
+                android:paddingLeft="@dimen/textview_padding"
+                android:text="string/item_overview_txt"
+                android:textColor="@color/black"
+                android:textStyle="normal"/>
+
+    </LinearLayout>
+
+</ScrollView>
